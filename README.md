@@ -2,8 +2,6 @@
 
 A modern admin dashboard to manage restaurants, menus, and menu items — built with **Next.js (App Router)**, **TypeScript**, **Firebase Firestore**, **Tailwind CSS**, and **ShadCN UI**.
 
-![screenshot](public/screenshot.png) <!-- Optional: Add your screenshot path here -->
-
 ---
 
 ## ✨ Features
