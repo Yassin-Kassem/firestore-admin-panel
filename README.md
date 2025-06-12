@@ -35,7 +35,12 @@ git clone https://github.com/your-username/restaurant-admin-panel.git
 cd restaurant-admin-panel
 ```
 
-### 2. Run the Server
+### 2. Install Dependancies
+```
+npm install
+
+```
+### 3. Run the Server
 
 ```bash
 npm run dev
