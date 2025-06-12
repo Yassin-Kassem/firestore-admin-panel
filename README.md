@@ -38,9 +38,18 @@ cd restaurant-admin-panel
 ### 2. Install Dependancies
 ```
 npm install
-
 ```
-### 3. Run the Server
+### 3. Add the .env
+```
+NEXT_PUBLIC_FIREBASE_API_KEY=...
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=...
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=...
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=...
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=...
+NEXT_PUBLIC_FIREBASE_APP_ID=...
+```
+
+### 4. Run the Server
 
 ```bash
 npm run dev
