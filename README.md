@@ -35,7 +35,7 @@ git clone https://github.com/your-username/restaurant-admin-panel.git
 cd restaurant-admin-panel
 ```
 
-First, run the development server:
+### 2. Run the Server
 
 ```bash
 npm run dev
