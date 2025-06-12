@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Admin Panel
+# 🍽️ Restaurant App Admin Panel
 
 A modern admin dashboard to manage restaurants, menus, and menu items — built with **Next.js (App Router)**, **TypeScript**, **Firebase Firestore**, **Tailwind CSS**, and **ShadCN UI**.
 
